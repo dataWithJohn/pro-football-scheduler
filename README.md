@@ -1,4 +1,5 @@
 # pro-football-scheduler
+![Football Player](images/player.png)
 How It Works
 
     The main script, controllingScript.py, calls two helper scripts:
