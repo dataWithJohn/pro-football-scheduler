@@ -38,5 +38,7 @@ while True:
         #        os.remove('matchups-shuffled.fil')
         if os.path.exists('stop.fil'):
             exit()
+        ### LEFT OFF HERE
+        ###exit()
 
     attempt = attempt + 1
