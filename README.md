@@ -6,7 +6,7 @@ How It Works
 
         shuffle.py
 
-        makeAWeek.py
+        makeAWeek.py (excluded from GitHub)
 
     After the schedule is generated, run makePrintOut.py to display the schedule in a clean, human-readable format.
 
