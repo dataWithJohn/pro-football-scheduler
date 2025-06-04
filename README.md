@@ -12,14 +12,10 @@ How It Works
 
 Setup
 
-    Before running any scripts, you need to manually create a matchups.fil file that contains the predefined matchups for the league.
-
-    There is also an optional byes.fil file for specifying bye weeks.
+    Before running any scripts, you need to manually create a matchups.fil, byes.fil, week-to-games.fil, and teams.fil file that contains the predefined details for the league schedule.
 
 Requirements
 
     The scripts use the shebang line: #!/usr/bin/python3
 
     Make sure you have Python 3 installed on your system to run them.
-
-
